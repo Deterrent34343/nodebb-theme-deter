@@ -1,5 +1,5 @@
 {
-	"id": "nodebb-theme-sweetp",
+	"id": "nodebb-theme-deter",
 	"library": "./lib/theme.js",
 	"hooks": [
 		{
