@@ -1,7 +1,7 @@
 {
-  "name": "nodebb-theme-sweetp",
-  "version": "0.0.3",
-  "description": "SweetP Productions Support forum NodeBB theme",
+  "name": "nodebb-theme-deter",
+  "version": "0.0.1",
+  "description": "Persona Deter",
   "main": "theme.less",
   "keywords": [
     "nodebb",
@@ -11,13 +11,10 @@
     "responsive"
   ],
   "license": "MIT",
-  "author": {
-    "name": "Russell Gray",
-    "url": "https://sweetpproductions.com"
-  },
+  "author": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sweetppro/nodebb-theme-sweetp"
+    "url": "https://github.com/Deterrent34343/nodebb-theme-deter"
   },
   "nbbpm": {
     "compatibility": "^1.11.0"
